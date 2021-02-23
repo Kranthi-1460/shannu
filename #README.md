@@ -25,3 +25,7 @@ this is your workshop
 google.com
 
 !(alt)
+
+
+def python():
+
